@@ -1,0 +1,69 @@
+body{
+	background-color: #000000;
+	color: white;
+	font-family: verdana, sans-serif;
+	font-size: 18px;
+}
+
+fieldset{
+	border: 10px solid white;
+	border-radius: 50px;
+	padding: 20px;
+	width: 700px;
+	height: 300px;
+}
+
+input{
+	font-size: 20px;
+	padding: 10px;
+	background-color: #000000;
+	border: 5px solid white;
+	border-radius: 50px;
+	color: white;
+}
+
+input.usr{
+	height: 30px;
+	width: 670px;
+	text-indent: 40px;
+	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/usr.png);
+	background-repeat: no-repeat;
+	background-position: 15px;
+}
+
+div.usr-space{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+input.pass{
+	height: 30px;
+	width: 670px;
+	text-indent: 40px;
+	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/lock.png);
+	background-repeat: no-repeat;
+	background-position: 15px;
+
+}
+
+div.pass-space{
+	padding-bottom: 30px;
+}
+
+input:focus{
+	border-color: #549EA3;
+	background-color: #453DD6;
+}
+
+input:hover{
+	border-color: #549EA3;
+}
+
+a:link{
+	color: #549EA3;
+}
+
+.extra{
+	text-align: center;
+	font-size: 10px;
+}
