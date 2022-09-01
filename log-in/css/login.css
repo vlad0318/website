@@ -1,5 +1,5 @@
 body{
-	background-color: #000000;
+	background-color: #464646;
 	color: white;
 	font-family: verdana, sans-serif;
 	font-size: 18px;
@@ -16,7 +16,7 @@ fieldset{
 input{
 	font-size: 20px;
 	padding: 10px;
-	background-color: #000000;
+	background-color: #464646;
 	border: 5px solid white;
 	border-radius: 50px;
 	color: white;
