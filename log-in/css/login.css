@@ -5,6 +5,23 @@ body{
 	font-size: 18px;
 }
 
+div.top{
+	position: static;
+	border: 1px #C0C0C0;
+	background-color: #C0C0C0;
+	text-align: center;
+	padding: 10px;
+}
+
+h1{
+	margin-top: 1%;
+}
+
+input.sing{
+	margin-right: -93%;
+	margin-bottom: 0%;
+}
+
 fieldset{
 	border: 10px solid white;
 	border-radius: 50px;
@@ -13,6 +30,8 @@ fieldset{
 	height: 300px;
 	margin-left: 24%;
 	margin-right: 24%;
+	margin-top: 7%;
+	margin-bottom: -7%;
 }
 
 input{
@@ -40,7 +59,7 @@ div.usr-space{
 
 input.pass{
 	height: 30px;
-	width: 670px;
+	width: 96%;
 	text-indent: 40px;
 	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/lock.png);
 	background-repeat: no-repeat;
@@ -65,7 +84,9 @@ a:link{
 	color: #549EA3;
 }
 
-.extra{
+div.extra{
+	margin-top: 13%;
 	text-align: center;
 	font-size: 10px;
+	background-color: #C0C0C0;
 }
