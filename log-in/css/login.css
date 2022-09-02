@@ -9,8 +9,10 @@ fieldset{
 	border: 10px solid white;
 	border-radius: 50px;
 	padding: 20px;
-	width: 700px;
+	width: 52%
 	height: 300px;
+	margin-left: 24%;
+	margin-right: 24%;
 }
 
 input{
@@ -24,7 +26,7 @@ input{
 
 input.usr{
 	height: 30px;
-	width: 670px;
+	width: 96%;
 	text-indent: 40px;
 	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/usr.png);
 	background-repeat: no-repeat;
