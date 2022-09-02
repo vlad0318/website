@@ -5,7 +5,7 @@ body{
 	font-size: 18px;
 }
 
-div.top{
+header.top{
 	position: static;
 	border: 1px #C0C0C0;
 	background-color: #C0C0C0;
@@ -85,7 +85,7 @@ a:link{
 	color: #549EA3;
 }
 
-div.extra{
+footer.extra{
 	margin-top: 13%;
 	text-align: center;
 	font-size: 10px;
