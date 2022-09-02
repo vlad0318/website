@@ -19,6 +19,7 @@ h1{
 
 input.sing{
 	margin-right: -93%;
+	margin-left: 0%;
 	margin-bottom: 0%;
 }
 
@@ -47,7 +48,7 @@ input.usr{
 	height: 30px;
 	width: 96%;
 	text-indent: 40px;
-	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/usr.png);
+	background-image: url(../img/usr.png);
 	background-repeat: no-repeat;
 	background-position: 15px;
 }
@@ -61,7 +62,7 @@ input.pass{
 	height: 30px;
 	width: 96%;
 	text-indent: 40px;
-	background-image: url(C:/Users/vladyslav/Desktop/learn/progects/html/img/lock.png);
+	background-image: url(../img/lock.png);
 	background-repeat: no-repeat;
 	background-position: 15px;
 
