@@ -13,8 +13,10 @@ header.top{
 	padding: 10px;
 }
 
-h1{
+button{
 	margin-top: 1%;
+	border: none;
+	background: none;
 }
 
 input.sing{
