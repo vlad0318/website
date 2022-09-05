@@ -19,7 +19,7 @@ button{
 	background: none;
 }
 
-input.sing{
+input.login{
 	margin-right: -93%;
 	margin-left: 0%;
 	margin-bottom: 0%;
@@ -57,10 +57,6 @@ input.usr{
 	background-position: 15px;
 }
 
-div.sub{
-	padding-left: 85%;
-}
-
 div.usr-space{
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -78,6 +74,29 @@ input.pass{
 
 div.pass-space{
 	padding-bottom: 30px;
+}
+
+input.comf-pass{
+	height: 30px;
+	width: 96%;
+	text-indent: 40px;
+	background-image: url(../img/lock.png);
+	background-repeat: no-repeat;
+	background-position: 15px;
+
+}
+
+div.comf-pass{
+	padding-bottom: 30px;
+}
+
+div.terms-services{
+	text-align: left;
+	font-size: 18px;
+}
+
+div.sub{
+	padding-left: 85%;
 }
 
 input:focus{
