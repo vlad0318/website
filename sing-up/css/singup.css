@@ -48,6 +48,20 @@ input{
 	color: white;
 }
 
+input.mail{
+	height: 30px;
+	width: 96%;
+	text-indent: 40px;
+	background-image: url(../img/email.png);
+	background-repeat: no-repeat;
+	background-position: 15px;
+}
+
+div.mail{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
 input.usr{
 	height: 30px;
 	width: 96%;
@@ -58,7 +72,6 @@ input.usr{
 }
 
 div.usr-space{
-	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
